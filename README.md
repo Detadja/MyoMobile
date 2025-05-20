@@ -7,7 +7,7 @@ Codebase for Mylo the MyoMobile. An EMG-Controlled Robot, intended for use on th
 * **mylo_myomobile_emg_extra** - This file includes similar code to `mylo_myomobile_emg`, with the additional feature to dynamically detect baseline and maximum emg amplitudes.
 * **mylo_motor_control** - This file includes the control to the motors on the built car kit from the jetson nano.
 
-[Mylo GIF Here]
+[![Mylo GIF](https://github.com/Detadja/MyoMobile/tree/main/media/Blink_Car.gif)](https://github.com/Detadja)
 
 ## Components
 * MyoWare Muscle Sensor 2.0
@@ -34,8 +34,8 @@ Turn on Mylo, and activate emg sensing to start.
 Turn on Mylo, and activate emg sensing to start (type in 'start' in the Arduino IDE).
 
 ## Demo
-[Video Demo 1 Link Here]
-[Video Demo 2 Link Here]
+[![Video Demo 1 Link Here](https://github.com/Detadja/MyoMobile/tree/main/media/Beep_Boop_Up_Down_AHHH.mp4)](https://github.com/Detadja)
+[![Video Demo 2 Link Here](https://github.com/Detadja/MyoMobile/tree/main/media/IMG4202.mov.mp4)](https://github.com/Detadja)
 
 ## Members
 * Denise Tanumihardja
@@ -44,4 +44,4 @@ Turn on Mylo, and activate emg sensing to start (type in 'start' in the Arduino 
 * Eunsol Lee
 * Brice Liu
 
-[Group Pic Here]
+[![Group Pic Here](https://github.com/Detadja/MyoMobile/tree/main/media/IMG20250517175116.jpg)](https://github.com/Detadja)
