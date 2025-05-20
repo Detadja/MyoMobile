@@ -34,8 +34,9 @@ Turn on Mylo, and activate emg sensing to start.
 Turn on Mylo, and activate emg sensing to start (type in 'start' in the Arduino IDE).
 
 ## Demo
-[![Video Demo 1 Link](https://github.com/Detadja/MyoMobile/blob/main/media/Beep_Boop_Up_Down_AHHH.mp4)](https://github.com/Detadja)
-[![Video Demo 2 Link](https://github.com/Detadja/MyoMobile/blob/main/media/IMG4202.mov.mp4)](https://github.com/Detadja)
+Click to watch.
+[![Video Demo 1 Link](https://github.com/Detadja/MyoMobile/blob/main/media/Beep_Boop_Up_Down_AHHH.mp4)](https://youtu.be/cPQCvYvUF9M "Mylo Demo 1")
+[![Video Demo 2 Link](https://github.com/Detadja/MyoMobile/blob/main/media/IMG4202.mov.mp4)](https://youtu.be/iq79IugJJkw "Mylo Demo 2")
 
 ## Members
 * Denise Tanumihardja
