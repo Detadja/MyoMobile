@@ -2,10 +2,10 @@
 Codebase for Mylo the MyoMobile. An EMG-Controlled Robot, intended for use on the anterior tibialis muscle of both legs, for children who are undergoing lower-limb physical therapy.
 
 ## Description
-* **mylo_eye_blink** - This file includes the control to display and animate the eyes on the ESP32 display screen.
-* **mylo_myomobile_emg** - This file includes the emg data collection as well as processing from the myoware muscle sensor to the ESP32 board for wireless transfer.
-* **mylo_myomobile_emg_extra** - This file includes similar code to `mylo_myomobile_emg`, with the additional feature to dynamically detect baseline and maximum emg amplitudes.
-* **mylo_motor_control** - This file includes the control to the motors on the built car kit from the jetson nano.
+* **`mylo_eye_blink`** - This file includes the control to display and animate the eyes on the ESP32 display screen.
+* **`mylo_myomobile_emg`** - This file includes the emg data collection as well as processing from the myoware muscle sensor to the ESP32 board for wireless transfer.
+* **`mylo_myomobile_emg_extra`** - This file includes similar code to `mylo_myomobile_emg`, with the additional feature to dynamically detect baseline and maximum emg amplitudes.
+* **`mylo_motor_control`** - This file includes the control to the motors on the built car kit from the jetson nano.
 
 [![Mylo GIF](https://github.com/Detadja/MyoMobile/blob/main/media/Blink_Car.gif)](https://github.com/Detadja)
 
@@ -19,7 +19,7 @@ Codebase for Mylo the MyoMobile. An EMG-Controlled Robot, intended for use on th
 ## Setup
 Construct the robot car kit with two motors connected to the two back wheels.
 
-#### mylo_myomobile_emg or mylo_myomobile_emg_extra
+#### `mylo_myomobile_emg` or `mylo_myomobile_emg_extra`
 * Attach both Myoware sensors to respective anterior tibialis muscles on both legs (the muscle that bulges out when you lift your foot).
 * Connect sensors to power, ground and analog data on the ESP32 board.
 
